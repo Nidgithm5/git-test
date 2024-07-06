@@ -1,26 +1,18 @@
 {
-<<<<<<< HEAD
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
-=======
-  "name": "git-test",
-  "version": "1.0.0",
->>>>>>> ebd31d5a9d448d17be9563caaf30bcbea0f4c996
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-<<<<<<< HEAD
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
-<<<<<<< HEAD
-=======
-=======
+    "lite-server": "^2.3.0"},
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nidgithm5/git-test"
@@ -30,18 +22,10 @@
   "description": "",
   "devDependencies": {
     "lite-server": "^2.6.1"
-<<<<<<< HEAD
->>>>>>> 0121ab03005d78407ca9afc1f11324a078e5ce78
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-<<<<<<< HEAD
-=======
-=======
->>>>>>> ebd31d5a9d448d17be9563caaf30bcbea0f4c996
->>>>>>> d9e4ba41deace3da969160ce7a59e1c345da9421
->>>>>>> 0121ab03005d78407ca9afc1f11324a078e5ce78
   }
 }
